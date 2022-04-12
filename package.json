@@ -4,17 +4,17 @@
   "packageManager": "pnpm@6.32.3",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/lbw211ht/[name]#readme",
+  "homepage": "https://github.com/love-js/[name]#readme",
   "bugs": {
-    "url": "https://github.com/lbw211ht/[name]/issues"
+    "url": "https://github.com/love-js/[name]/issues"
   },
   "license": "MIT",
   "author": "love-JS <ss.lbw.ss@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lbw211ht/[name].git"
+    "url": "git+https://github.com/love-js/[name].git"
   },
-  "funding": "https://github.com/sponsors/lbw211ht",
+  "funding": "https://github.com/sponsors/love-js",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
